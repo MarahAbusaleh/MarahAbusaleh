@@ -51,6 +51,9 @@ software development knowledge, research skills, and dedication will be utilized
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/> 
   </a> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+  </a> 
 </p>
 
 
