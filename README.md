@@ -6,6 +6,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79BC1&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/melissa-cristine-ribeiro/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
+</p>
 
 
 - I'm now a <strong>Full Stack Web Developer Trainee</strong> at Orange Coding Academy
