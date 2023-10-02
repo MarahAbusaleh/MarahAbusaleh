@@ -22,7 +22,7 @@
 software development knowledge, research skills, and dedication will be utilized. Comes with a strong desire to learn and work simultaneously, and an eagerness to hone exceptional communication and teamwork skills.
 
 
-### Languages :
+### Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
