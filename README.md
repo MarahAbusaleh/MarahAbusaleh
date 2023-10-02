@@ -1,15 +1,15 @@
 
-
+<p align="center">
 <h3 align="center">
   Welcome to Marah Abusaleh GitHub!
 </h3>
 
-<p align="center">
+
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79BC1&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p> 
 
 
-- I'm a <strong>Full Stack Web Developer Trainee</strong> at Orange Coding Academy
+- I'm now a <strong>Full Stack Web Developer Trainee</strong> at Orange Coding Academy
 - I'm a Computer Engineering graduate from JUST.
 - I am looking for a position as a full-stack web developer where my
 software development knowledge, research skills, and dedication will be utilized. Comes with a strong desire to learn and work simultaneously, and an eagerness to hone exceptional communication and teamwork skills.
